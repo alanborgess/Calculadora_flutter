@@ -1,16 +1,1 @@
-# calculadora
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Uma calculadora é um projeto em Flutter que implementa como funções básicas de uma calculadora. Com uma interface intuitiva e simples, o usuário pode realizar óperas matemáticas básicas, incluindo adição, subtração, multiplicação e divisão.
