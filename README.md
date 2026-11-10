@@ -1,1 +1,1 @@
-calculadora, projeto em Flutter que implementa como funções básicas de uma calculadora. Com uma interface intuitiva e simples, o usuário pode realizar óperas matemáticas básicas, incluindo adição, subtração, multiplicação e divisão.
+Calculadora, projeto em Flutter que implementa funções básicas de uma calculadora. Com uma interface intuitiva e simples, o usuário pode realizar óperas matemáticas básicas, incluindo adição, subtração, multiplicação e divisão.
